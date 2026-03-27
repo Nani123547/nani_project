@@ -7,6 +7,6 @@ export default defineConfig({
   plugins: [react(), tailwindcss(),],
   server:{ 
     host: true,
-    allowedHosts: ['innovations-inspiration-pride-exit.trycloudflare.com']
+    allowedHosts: ['dream-tony-enabling-biggest.trycloudflare.com']
   }
 })
