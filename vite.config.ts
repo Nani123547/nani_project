@@ -7,6 +7,6 @@ export default defineConfig({
   plugins: [react(), tailwindcss(),],
   server:{ 
     host: true,
-    allowedHosts: ['ampland-suitable-switched-interested.trycloudflare.com']
+    allowedHosts: ['recipes-applied-did-conviction.trycloudflare.com']
   }
 })
